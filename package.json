@@ -1,0 +1,24 @@
+{
+  "name": "military-library-search-server",
+  "version": "1.0.0",
+  "description": "국방 전자도서관 API 검색 서버",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Military-Library/military-library-search-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Military-Library/military-library-search-server/issues"
+  },
+  "homepage": "https://github.com/Military-Library/military-library-search-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1"
+  }
+}
